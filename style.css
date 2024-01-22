@@ -38,6 +38,7 @@
 }
 
 .dropdown li {
+
     font-size: 10px;
     padding: 10px;
     background-color: white;
@@ -483,49 +484,51 @@
     display: flex;
     width: 100%;
     height: 12rem;
-    gap: 2.5rem;
+    gap: 2rem;
 }
 
 .card1 {
     cursor: pointer;
     height: 10rem;
-    width: 18rem;
+    width: 17rem;
 }
 
 .card1 img {
     height: 10rem;
-    width: 20rem;
+    width: 18rem;
 
 }
 
 .card2 {
     cursor: pointer;
     height: 10rem;
-    width: 18rem;
+    width: 17rem;
 }
 
 .card2 img {
     height: 10rem;
-    width: 20rem;
+    width: 18rem;
 
 }
 
 .card3 {
     cursor: pointer;
     height: 10rem;
-    width: 20rem;
+    width: 18rem;
 }
 
 .card3 img {
     height: 10rem;
-    width: 18rem;
+    width: 17rem;
 
 }
 
 .footer {
+    margin-top: 64rem;
+    margin-left: -58rem;
     padding: 1rem;
     gap: 1rem;
-    width: 97%;
+    width: 101%;
     height: 10rem;
     background-color: black;
     display: flex;
@@ -569,12 +572,15 @@
 .f1 a:hover {
     text-decoration: underline;
 }
+
 .f2 a:hover {
     text-decoration: underline;
 }
+
 .f3 a:hover {
     text-decoration: underline;
 }
+
 .f4 a:hover {
     text-decoration: underline;
 }
@@ -629,124 +635,149 @@
     color: grey;
     font-family: Arial, Helvetica, sans-serif;
 }
-.footer2 h5{
+
+.footer2 h5 {
     cursor: pointer;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-.footer2 h5:hover{
+
+.footer2 h5:hover {
     transition: 0.5s;
     color: greenyellow;
 }
-.sectiion4{
+
+.sectiion4 {
     height: 10rem;
 }
-.section4 img{
+
+.section4 img {
     right: 0;
     height: 20rem;
-margin-left: 40rem;
+    margin-left: 40rem;
 }
-.section4 button{
+
+.section4 button {
     position: absolute;
     margin-top: -5rem;
 }
-.bottom{
+
+.bottom {
+    margin-top: 76rem;
+    margin-left: -57.5rem;
     text-align: center;
     justify-content: center;
     align-items: center;
     gap: 2rem;
     background-color: black;
-height: 3rem;
-border-top: 0.1px solid white;
-    width: 100;
+    height: 3rem;
+    border-top: 0.1px solid white;
+    width: 104.6%;
     display: flex;
 }
-.bottom .b1 a{
+
+.bottom .b1 a {
     font-size: 10px;
-color: white;
-text-decoration: none;
+    color: white;
+    text-decoration: none;
 
 }
-.bottom .b1 a:hover{
+
+.bottom .b1 a:hover {
     color: greenyellow;
 }
-.bottom .b2 a{
+
+.bottom .b2 a {
     font-size: 10px;
-color: white;
-text-decoration: none;
+    color: white;
+    text-decoration: none;
 
 }
-.bottom .b2 a:hover{
+
+.bottom .b2 a:hover {
     color: greenyellow;
 }
-.bottom .b3 a{
+
+.bottom .b3 a {
     font-size: 10px;
-color: white;
-text-decoration: none;
+    color: white;
+    text-decoration: none;
 
 }
-.bottom .b3 a:hover{
+
+.bottom .b3 a:hover {
     color: greenyellow;
 }
-.bottom .b4 a{
+
+.bottom .b4 a {
     font-size: 10px;
-color: white;
-text-decoration: none;
+    color: white;
+    text-decoration: none;
 
 }
-.bottom .b4 a:hover{
+
+.bottom .b4 a:hover {
     color: greenyellow;
 }
-.bottom .b5 p{
-color: white;
-font-size: 10px;
+
+.bottom .b5 p {
+    color: white;
+    font-size: 10px;
 }
-.section5{
+
+.section5 {
     height: 21rem;
     width: 35rem;
     margin-left: 7.5rem;
 }
-.sec5banner{
+
+.sec5banner {
     height: 21rem;
     width: 25rem;
     margin-left: 15rem;
 
 
 }
-.sec5banner img{
-    
+
+.sec5banner img {
+
     height: 21rem;
     width: 35rem;
 
 }
-.bt{
-margin-top: -13em;
-margin-left: 9rem;
+
+.bt {
+    margin-top: -13em;
+    margin-left: 9rem;
 }
 
-.bt p{
-    
+.bt p {
+
     color: powderblue;
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
 }
-.bb{
+
+.bb {
     margin-top: 5rem;
-margin-left: 10rem;
+    margin-left: 10rem;
 }
-.bb button{
+
+.bb button {
     border: none;
     cursor: pointer;
     height: 2rem;
     width: 7rem;
 
 }
-.bb button:hover{
+
+.bb button:hover {
     transition: 0.2s;
-    background-color:black;
+    background-color: black;
     color: white;
 }
-.sec5card1{
+
+.sec5card1 {
     cursor: pointer;
     padding: 1rem;
     height: 19rem;
@@ -754,17 +785,19 @@ margin-left: 10rem;
     background-color: powderblue;
     margin-top: -21rem;
 }
-.sec5card1:hover{
+
+.sec5card1:hover {
     transition: 1s;
-    background-color:greenyellow ;
+    background-color: greenyellow;
 }
-.sec5card1 h1{
+
+.sec5card1 h1 {
     width: 18rem;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.sec5card1 button{
+.sec5card1 button {
     cursor: pointer;
     background-color: white;
     color: black;
@@ -773,9 +806,171 @@ margin-left: 10rem;
     width: 7rem;
     border: none;
 }
-.sec5card1 button:hover{
-  background-color: black;
-  color: white;
-  transition: 0.5s;
 
+.sec5card1 button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+
+}
+
+.product_tittle {
+    margin-top: 2rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.products_section {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.5rem;
+    height: 50rem;
+    width: 98%;
+}
+
+.product1 {
+    cursor: pointer;
+    padding-top: 20px;
+    height: 9rem;
+    width: 11rem;
+    border: 0.2px solid grey;
+}
+
+.product1:hover {
+    transition: 0.5s;
+    transform: scale(1.05);
+}
+
+.product1 img {
+    border-bottom: 0.5px solid grey;
+    margin-left: 15px;
+    height: 7rem;
+    width: 9rem;
+}
+
+.product1 button {
+    cursor: pointer;
+    border: none;
+    background-color: white;
+    height: 1.7rem;
+    width: 11rem;
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.product1 button:hover {
+    transition: 0.5s;
+
+    background-color: black;
+    color: white;
+}
+
+.row2 {
+    gap: 0.5rem;
+    display: flex;
+    margin-left: -58rem;
+    margin-top: 12rem;
+    width: 100%;
+    height: 10rem;
+}
+
+.content h3 {
+    margin-left: -57rem;
+    width: 12rem;
+    margin-top: 36rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.content p {
+    width: 55rem;
+    letter-spacing: 1px;
+    line-height: 18px;
+    color: grey;
+    margin-left: -57rem;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.content #mobile {
+    font-size: 12px;
+
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content #mobilep {
+    width: 55rem;
+
+    letter-spacing: 1px;
+    line-height: 18px;
+    color: grey;
+    margin-left: -57rem;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content #lifestyle {
+    font-size: 12px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content #lifestylep {
+    width: 55rem;
+
+    letter-spacing: 1px;
+    line-height: 18px;
+    color: grey;
+    margin-left: -57rem;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login_tittle {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.login_tittle h2 {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.login-section {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.log {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;    margin-top: 1.5rem;
+    margin-left: 20.7rem;
+    height: 22rem;
+    width: 17rem;
+}
+.logsign{
+    height: 2.5rem;
+    width: 17rem;
+    background-color: blue;
+}
+.logsign #ls{
+    color: white;
+    background-color: blue;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
